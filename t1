@@ -1,7 +1,9 @@
 #include<stdio.h>
 main()
 {
-add();
+add()
+{
+printf("addition of a and b",sum);
 sub();
 mul();
 div();
