@@ -9,6 +9,9 @@ sub()
 {
 printf("sub");
 }
-mul();
+mul()
+{
+printf("mul");
+}
 div();
 }
